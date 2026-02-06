@@ -30,3 +30,5 @@ Spend less time worrying about managing a website and citations, and more time r
 - ... and much more!
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+
+<!-- Trigger build run #2 -->
