@@ -41,13 +41,9 @@ jobs:
         if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
-      - name: Set root url
-        run: |
-          printf "\n\nurl: ${{ steps.pages.outputs.origin }}" >> _config.yaml
-
       - name: Build live version of site
         run: |
-          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}"
+          JEKYLL_ENV=production bundle exec jekyll build
 
       - name: Commit live site to Pages branch
         uses: JamesIves/github-pages-deploy-action@v4.5.0
