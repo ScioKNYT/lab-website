@@ -1,4 +1,6 @@
 # site properties and page defaults
+url: "https://scioknyt.github.io"
+baseurl: "/lab-website"
 title: SMART Lab
 subtitle: Shape Memory Alloys Research
 description: We do research with Shape memory alloys, specifically for defence and aerospace applications.
