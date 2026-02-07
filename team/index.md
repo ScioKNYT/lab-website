@@ -13,11 +13,11 @@ Meet the researchers behind the SMART Lab.
 
 ## Principal Investigator
 
-{% include list.html data="members" component="portrait" filter="role contains 'principal-investigator' or role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' or role == 'pi'" %}
 
 ## Current Members
 
-{% include list.html data="members" component="portrait" filter="group != 'alumni' and role != 'pi' and role !contains 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="group != 'alumni' and role != 'pi' and role != 'principal-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
