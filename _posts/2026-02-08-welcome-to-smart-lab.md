@@ -1,6 +1,6 @@
 ---
 title: Welcome to SMART Lab
-date: 2026-02-08
+date: 2026-02-07
 tags:
 - news
 - general
