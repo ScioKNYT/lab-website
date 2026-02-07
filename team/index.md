@@ -1,11 +1,11 @@
 ---
-title: Team
+title: About Us
 nav:
-  order: 3
-  tooltip: About our team
+  order: 2
+  tooltip: About our team and mission
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}About Us
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis

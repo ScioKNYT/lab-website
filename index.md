@@ -1,9 +1,9 @@
 ---
 ---
 
-# SMART Lab
+# Welcome to the SMART Lab
 
-Releasing whatever you want, wherever you want, whenever you want, SMARTLY.
+We are a research group focused on Shape Memory Alloys and their applications in defence and aerospace.
 
 
 
